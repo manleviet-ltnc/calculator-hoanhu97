@@ -1,0 +1,8 @@
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\obj\x86\Debug\Calculator.frmMain.resources
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\pc\Documents\GitHub\calculator-hoanhu97\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
