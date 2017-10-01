@@ -35,7 +35,7 @@ namespace Calculator
             {
                 if (lblDisplay.Text == "0")
                     lblDisplay.Text = "";
-                lblDisplay.Text = lblDisplay + so;
+                lblDisplay.Text = lblDisplay.Text + so;
             }
             else
             {
@@ -168,7 +168,7 @@ namespace Calculator
                 }
                 return;
             }
-            lblDisplay.Text = lblDisplay + ".";
+            lblDisplay.Text = lblDisplay.Text + ".";
         }
     }
 }
